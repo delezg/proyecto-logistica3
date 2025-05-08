@@ -1,1 +1,31 @@
-
+1. Transporte:
+Transporte Multimodal:
+Combina diferentes modos de transporte (terrestre, marítimo, aéreo, ferroviario) para la entrega de mercancías.
+Transporte Terrestre:
+Camiones, trenes, entre otros, para el movimiento de mercancías dentro de una región o país.
+Transporte Aéreo:
+Vuelos de carga para la distribución rápida de mercancías a largas distancias.
+Transporte Marítimo:
+Barcos de carga para la distribución de grandes cantidades de mercancías a nivel global.
+Transporte Ferroviario:
+Trenes de carga para el movimiento de mercancías en grandes cantidades.
+2. Almacenaje:
+Almacenes Secos: Para el almacenamiento de productos no sensibles a la temperatura.
+Almacenes Refrigerados: Para el almacenamiento de productos que requieren temperaturas controladas (ej. alimentos, productos farmacéuticos).
+Centros de Distribución: Espacios diseñados para la recepción, clasificación y distribución de mercancías.
+3. Gestión Aduanera:
+Tramitación de Documentos:
+Apoyo en la preparación y presentación de la documentación requerida para las operaciones de importación y exportación.
+Gestión de Desaduanamiento:
+Facilitar el proceso de desaduanamiento de mercancías para garantizar una rápida entrada o salida de un país.
+Asesoramiento Aduanero:
+Orientación sobre las leyes y regulaciones aduaneras para asegurar el cumplimiento.
+4. Distribución:
+Distribución de Última Millas: Entrega de productos directamente al cliente final.
+Distribución Urbana: Transporte y entrega de productos dentro de una ciudad o área metropolitana.
+Distribución a Granel: Transporte de grandes volúmenes de mercancías a un centro de distribución o cliente final.
+5. Otros Servicios:
+Servicios de Empaquetado y Etiquetado: Preparación de productos para su envío.
+Servicios de Trazabilidad: Seguimiento de las mercancías a través de la cadena de suministro.
+Servicios de Cumplimiento: Garantizar que las operaciones logísticas cumplen con las regulaciones y estándares.
+Soluciones Tecnológicas: Sistemas de gestión de almacén (WMS), sistemas de gestión de transporte (TMS), plataformas de e-commerce, entre otros.
